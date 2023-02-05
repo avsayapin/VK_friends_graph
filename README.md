@@ -1,2 +1,2 @@
 # VK_friends_graph
-Basic analysis of friends graph from VK network for "Network Science" course
+Basic analysis of friends graph from VK social network for "Network Science" course
